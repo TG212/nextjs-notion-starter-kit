@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '随便看看',
-  domain: 'transitivebullsh.it',
+  domain: 'https://www.notion.so/dc92139ec30a4a1bbdebe9494955c509',
   author: 'tong',
 
   // open graph metadata (optional)
